@@ -1,0 +1,11 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.25",
+	"Category": "",
+	"Description": "",
+	"TargetPlatforms": [
+		"AllDesktop",
+		"WindowsNoEditor",
+		"WindowsNoEditorWin32"
+	]
+}
